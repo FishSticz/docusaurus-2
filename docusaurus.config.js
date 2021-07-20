@@ -1,16 +1,16 @@
 module.exports = {
   title: 'Lifes Path Roleplay',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'A new Roleplay community',
+  url: 'N/A',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'n/a', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'soon',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'soon',
         src: 'img/logo.svg',
       },
       links: [
@@ -57,7 +57,7 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/lifes_path',
             },
           ],
         },
